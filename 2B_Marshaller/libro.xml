@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libros>
+	<libro>
+		<nombre>Harry Potter y la piedra filosofal</nombre>
+	</libro>
+	<libro>
+		<nombre>Las luces de septiembre</nombre>
+	</libro>
+</libros>
