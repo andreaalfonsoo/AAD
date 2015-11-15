@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+	<libro>
+		<titulo>Harry Potter y la piedra filosofal</titulo>
+		<autor>JK Rowling</autor>
+		<año>2001</año>
+		<editor>JK Rowling</editor>
+		<numpaginas>254</numpaginas>
+	</libro>
+	
+	<libro>
+		<titulo>Las luces de septiembre</titulo>
+		<autor>Carlos Ruiz Zafon</autor>
+		<año>2008</año>
+		<editor>Carlos Ruiz Zafon</editor>
+		<numpaginas>320</numpaginas>
+	</libro>
+
+	<libro>
+		<titulo>Romeo y Julieta</titulo>
+		<autor>William Shakespeare</autor>
+		<año>2004</año>
+		<editor>William Shakespeare</editor>
+		<numpaginas>208</numpaginas>
+	</libro>
+</biblioteca>
